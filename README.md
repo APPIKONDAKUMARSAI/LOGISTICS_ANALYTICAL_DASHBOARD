@@ -37,6 +37,6 @@ The dashboard processes transactional shipping records featuring:
 ---
 
 ### Screenshot:
-> 
+> https://github.com/APPIKONDAKUMARSAI/LOGISTICS_ANALYTICAL_DASHBOARD/blob/main/logistics_dashboard.png
 
 
