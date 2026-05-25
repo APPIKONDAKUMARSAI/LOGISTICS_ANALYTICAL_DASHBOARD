@@ -1,4 +1,4 @@
-# LOGISTICS_ANALYTICAL_DASHBOARD
+
 
 # 🚚 Logistics_Analytical_Dashboard
 
@@ -37,6 +37,6 @@ The dashboard processes transactional shipping records featuring:
 ---
 
 ### Screenshot:
-> 💡 *Save a screenshot of your report view in your repository and update the path below.*
+> 
 
-![Logistics Dashboard Preview](path-to-your-dashboard-screenshot.png)
+
